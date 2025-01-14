@@ -1,0 +1,1 @@
+Designed and implemented RESTful APIs using Java and Spring Boot to enable CRUD operations for managing books. * Configured Spring Data JPA forseamlessintegration with a MySQL database, ensuring efficient data storage and retrieval. * Leveraged Postman for thorough API testing and Swagger for comprehensive API documentation.
